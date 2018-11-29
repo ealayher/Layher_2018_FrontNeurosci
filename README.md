@@ -18,3 +18,8 @@ Function that calculates the normalized criterion by residualizing <i>c</i> agai
 [**sdt_measures.m**](https://github.com/UCSBMemoryLab/signal_detection_theory/blob/master/sdt_measures.m)   
 Function that calculates discriminability (<i>d'</i>) and criterion values (<i>c</i>).
  
+[**lmm_tms.m**](https://github.com/UCSBMemoryLab/signal_detection_theory/blob/master/lmm_tms.m)   
+Analyses data using linear mixed models and outputs figures.
+
+[**summarizeWithin.m**](https://github.com/UCSBMemoryLab/signal_detection_theory/blob/master/summarizeWithin.m)  
+Function used by [**lmm_tms.m**](https://github.com/UCSBMemoryLab/signal_detection_theory/blob/master/lmm_tms.m) to calculate mean and standard deviation.

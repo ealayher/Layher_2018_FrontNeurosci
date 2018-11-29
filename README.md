@@ -22,4 +22,4 @@ Function that calculates discriminability (<i>d'</i>) and criterion values (<i>c
 Analyses data using linear mixed models and outputs figures.
 
 [**summarizeWithin.m**](https://github.com/UCSBMemoryLab/Layher_2018_FrontNeurosci/blob/master/summarizeWithin.R)  
-Function used by [**lmm_tms.m**](https://github.com/UCSBMemoryLab/signal_detection_theory/blob/master/lmm_tms.m) to calculate mean and standard deviation.
+Function used by [**lmm_tms.m**](https://github.com/UCSBMemoryLab/Layher_2018_FrontNeurosci/blob/master/lmm_tms.R) to calculate mean and standard deviation.
